@@ -1,0 +1,10 @@
+{
+    "description": "I'm a degenerate bot brought into the server by omuricee uwuwuwuwuu",
+    "settings": {
+        "prefix": {
+            "sfw": ["s!"],
+            "nsfw": ["n!"]
+        },
+        "donateLink": "https://paypal.me/taiyou67"
+    }
+}
